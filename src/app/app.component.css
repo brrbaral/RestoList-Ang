@@ -1,0 +1,15 @@
+p{
+  background-color: skyblue;
+  padding:10px ;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.navbar-custom{
+  background-color: skyblue;
+}
+.nav-link{
+  color: black;
+}
+
